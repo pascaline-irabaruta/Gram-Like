@@ -118,3 +118,8 @@ class PostLikeToggle(RedirectView):
         else:
             obj.likes.add(user)
         return url_
+
+def delete(request, id):
+    post = Post.objects.get(pk=id)
+    post.delete_image()
+    return redirect('profile', username=request.user.username)
