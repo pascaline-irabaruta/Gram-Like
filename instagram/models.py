@@ -50,3 +50,6 @@ class Post(models.Model):
     @property
     def get_all_comments(self):
         return self.comments.all()
+
+    def save_image(self):
+        self.save()
