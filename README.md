@@ -1,4 +1,4 @@
-# App Name : Gram-Like
+# Gram-Like
 
 An app where users can sign-up to share posts, comment on the posts, like the posts and follow other users
 
@@ -35,7 +35,7 @@ As a user of the application you will be able to:
 ### Pre-requisites
 
 1. What you need
-* Python version 3.6  [Installation guide](https://realpython.com/installing-python/)
+* Python version 3.6 
 * postgres database
 
 ### Installation
@@ -114,4 +114,5 @@ python3 manage.py runserver
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](license) file for details.
+* This project is licensed under the MIT License - see the [LICENSE](license) file for details.
+* Copyright (c) 2020 **Pascy Irabaruta**
