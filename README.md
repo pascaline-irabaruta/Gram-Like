@@ -115,4 +115,4 @@ python3 manage.py runserver
 ## License
 
 * This project is licensed under the MIT License - see the [LICENSE](license) file for details.
-* Copyright (c) 2020 **Pascy Irabaruta**
+* Copyright (c) 2021 **Pascy Irabaruta**
