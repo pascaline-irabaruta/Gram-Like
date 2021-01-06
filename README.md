@@ -30,7 +30,8 @@ As a user of the application you will be able to:
 > + Upload Posts with caption
 > + Follow other users
 
-
+### Liknk to the live site
+* https://gram-like.herokuapp.com/
 
 ### Pre-requisites
 
